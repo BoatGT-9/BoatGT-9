@@ -11,13 +11,13 @@
 ## 🛠 Tech Stack
 
 ### 💡 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql)
+![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mysql,oracle)
 
 ### 🌐 Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs)
 
 ### 🧪 Testing / QA
-![Testing](https://skillicons.dev/icons?i=cypress)
+![Testing](https://skillicons.dev/icons?i=cypress,robot)
 
 ### ⚙️ Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,postman)
